@@ -1,4 +1,6 @@
-Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be created in the current working directory.
+Create a script that deletes all files in the current working directory that end with the character ~.
+
+
 
 
 
