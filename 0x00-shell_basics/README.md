@@ -1,4 +1,6 @@
-Delete the file betty.
+Delete the directory holberton that is in the /tmp directory.
+
+
 
 
 
