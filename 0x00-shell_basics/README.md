@@ -1,4 +1,6 @@
-Display current directory contents.
+Create a script that creates a directory named holberton in the /tmp/ directory.
+
+
 
 
 
