@@ -1,2 +1,2 @@
 #!/bin/bash
-su -c chgrp betty holberton hello  
+chgrp holberton hello  
