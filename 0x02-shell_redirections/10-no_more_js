@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ap | grep / | wc -l
+rm *.js ./*/*.js
