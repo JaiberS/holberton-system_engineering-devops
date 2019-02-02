@@ -1,0 +1,2 @@
+#!/bin/bash
+tr -d "*.gif" < find ./* -name '*.gif' -type 'f' | wc -l 
