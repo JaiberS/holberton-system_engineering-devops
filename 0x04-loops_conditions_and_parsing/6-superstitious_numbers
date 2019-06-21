@@ -12,7 +12,7 @@ do
 	9)
 	echo 'bad luck from Japan'
 	;;
-	12)
+	17)
 	echo 'bad luck from Italy'
 	;;
     esac
