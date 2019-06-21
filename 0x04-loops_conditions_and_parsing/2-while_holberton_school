@@ -1,1 +1,8 @@
 #!/usr/bin/env bash
+#displays Holberton School 10 times.
+i=2
+while [[ $counter -lt 10 ]]
+do
+    echo 'Holberton School'
+    ((counter++))
+done
