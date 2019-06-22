@@ -1,1 +1,8 @@
 #!/usr/bin/env bash
+# displays the content of the file /etc/passwd
+i=1
+while [[ $i -le $(cat /etc/passwd | wc -l) ]]
+do
+    echo $(cat /etc/passwd | cut -d ':' -f1,3,6 | head -n $i | tail -n 1)
+    ((i++))
+done
