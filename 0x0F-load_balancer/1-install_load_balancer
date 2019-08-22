@@ -17,4 +17,4 @@ backend nodes
     http-request add-header X-Forwarded-Proto https if { ssl_fc }
     option httpchk HEAD / HTTP/1.1\r\nHost:localhost
     server web01 34.74.254.207 check
-    server web02 34.73.52.215 check" | sudo tee -a /etc/haproxy/haproxy.cfg > /dev/null
+    server web02 34.73.52.215 check" | sudo tee -a /etc/haproxy/haproxy.cfg
