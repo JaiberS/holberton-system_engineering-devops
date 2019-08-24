@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+# sudo ufw allow 8080/tcp and change /etc/ufw/before.rules
