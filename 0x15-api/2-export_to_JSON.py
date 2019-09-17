@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 """  For a given employee ID, returns information """
+import json
 import requests
 from sys import argv
-import json
 
 if __name__ == "__main__":
     """ Get information """

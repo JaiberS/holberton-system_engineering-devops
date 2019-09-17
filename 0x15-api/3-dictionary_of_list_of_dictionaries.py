@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """  For a given employee ID, returns information """
-import requests
 import json
+import requests
 
 if __name__ == "__main__":
     """ Get information """
